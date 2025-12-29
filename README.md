@@ -1,2 +1,3 @@
 # mathgame
-React Math Game
+Math Game
+ React Native App with NodeJS Backend
